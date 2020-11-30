@@ -1,7 +1,6 @@
 // src/POPOSDetails.js
 
 import React from 'react'
-
 import data from './sfpopos-data.json'
 
 function POPOSDetails(props) {

@@ -15,7 +15,7 @@ import POPOSDetails from './POPOSDetails'
 function App() {
   return (
     <Router>
-      <div className = 'App'>
+      <div className="App">
         <Title />
         <Route path="/" component={POPOSList}/>
         <Route path="/about" component={About} />
