@@ -3,7 +3,7 @@ import './footer.css';
 
 function Footer() {
     return (
-    <div className="footer">
+    <div className="sticky-bottom">
       <p>Jarquevious Nelson copyright 2019</p>
     </div>
   )
